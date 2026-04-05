@@ -1,0 +1,5 @@
+@EndUserText.label: 'Supplier Business Services'
+define service Z01_UI_SupplierList {
+  expose z01_C_Article  as Article;
+  expose Z01_C_Supplier as Supplier;
+}

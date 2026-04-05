@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Customer orders'
+define service Z01_UI_CustomerOrder {
+  expose Z01_C_CustomerOrders;
+}
